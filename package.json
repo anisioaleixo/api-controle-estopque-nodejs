@@ -1,0 +1,7 @@
+{
+  "name": "api-controle-estopque-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "anisioaleixo <anisioaleixo@yahoo.com.br>",
+  "license": "MIT"
+}
